@@ -27,7 +27,7 @@ SECRET_KEY = 'j)ouk3jyeqt(m*^prym2z@s#=-jq%j9vcp=nrb649ord=)3=uz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['178.128.97.55', '127.0.0.1']
+ALLOWED_HOSTS = ['178.128.97.55', '127.0.0.1','https://frozen-woodland-78340.herokuapp.com/ ']
 
 
 # Application definition
